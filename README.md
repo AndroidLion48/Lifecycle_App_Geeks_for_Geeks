@@ -3,6 +3,7 @@ Activity Lifecycle App
 
 Project displaying the Activity Lifecycle stages with Toast messages
 
+![Screenshot](https://user-images.githubusercontent.com/92341925/200902738-0dfefc05-e7cf-4fc8-9f7c-bbf480d9f1d1.png)
 
 
 Introduction
